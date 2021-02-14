@@ -1,6 +1,4 @@
-# admintool
-
-> Facedrive admin tool
+# Facedrive Admin Tool
 
 ## Build Setup
 
